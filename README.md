@@ -6,13 +6,15 @@ Se puede programar la microbit con editor de bloques, Javascript o Python. Para 
 
 En este vídeo de Youtube, se explica cómo empezar a programar con microbit (https://www.youtube.com/watch?v=MY4jDrN9_cc).
 
-En cada carpeta hay dos ficheros:
+## Ejemplos
+
+En cada carpeta de los ejemplos hay dos ficheros:
 
 - `.js`: con el código en Javascript listo para usar en el editor de código (https://makecode.microbit.org/).
 - `.hex`: con el fichero para copiar y pegar en nuestra microbit una vez conectada a través del puerto USB en nuestro ordenador. Hay disponible una guía paso a paso en https://microbit.org/es/guide/quick/.
 
 
-## Ejemplos Microbit
+### Ejemplos Microbit
 
 - 01-Piedra_Papel_Tijera: simulación del conocido juego Piedra/Papel/Tijera. Hay que agitar la microbit para que aparezaca de forma aleatoria una de las tres formas en el panel de la microbit.
 
@@ -23,7 +25,7 @@ En cada carpeta hay dos ficheros:
 - 04-Snap_the_Dot: en este juego una luz led se mueve de izquierda a derecha y empleando el pulsador `A` debemos indicar cuando está en el punto central. El juego se detendrá y saldrá el mensaje "Game Over" si nos equivocamos. Se puede reiniciar el juego pulsando `A` y `B` de forma simultánea.
 
 
-## Ejemplos Maqueen
+### Ejemplos Maqueen
 
 - 01-Detecta_Obstaculos: Maqueen se moverá e intentará evitar los obstáculos que puede encontrarse en su camino.
 
