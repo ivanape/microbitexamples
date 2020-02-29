@@ -1,6 +1,8 @@
-# Microbit
+# microbitexamples
 
 Repositorio con ejemplos para la BBC Microbit (https://microbit.org/es/) y para Maqueen (https://wiki.dfrobot.com/micro:Maqueen_for_micro:bit_SKU:ROB0148-E(ROB0148)).
+
+## Microbit
 
 BBC micro: bit es una pequeña tarjeta programable de tan solo 4x5 cm diseñada para que aprender a programar sea fácil, divertido y al alcance de todos. Tiene un entorno de programación gráfico propio: MakeCode de Microsoft, un sencillo editor gráfico online muy potente. También se puede programar con JavaScript, Python y Scratch (añadiendo una extensión). 
 
@@ -24,7 +26,7 @@ Características:
 
 Para comenzar se puede visualizar este vídeo de Youtube (https://www.youtube.com/watch?v=MY4jDrN9_cc), dado que es un gran recurso para una primera toma de contacto del flujo y entorno de trabajo.
 
-# Maqueen
+## Maqueen
 
 Es un robot de programación gráfica para educación STEM diseñado para BBC micro: bit. Su chasis es plug and play y permite a los niños aprender rápidamente programación gráfica para entretener y fomentar el interés de los niños en la ciencia y el pensamiento lógico. Viene totalmente montado a falta de conectar las ruedas y las pilas, por lo tanto no es necesario soldar y se puede poner a funcionar en pocos minutos con los códigos de ejemplo. Es necesario pinchar una placa BB micro:bit (no incluida) para poder utilizar el robot. La misma placa también ofrecerá la posibilidad de usar sus diversos sensores e inventar diferentes juegos. Se programa directamente con el entorno visual Makecode de Microsoft. Es adecuado para niños con edad a partir de 8 Años.
 
