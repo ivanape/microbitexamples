@@ -1,4 +1,4 @@
-# microbitexamples
+# Microbit
 
 Repositorio con ejemplos para la BBC Microbit (https://microbit.org/es/) y para Maqueen (https://wiki.dfrobot.com/micro:Maqueen_for_micro:bit_SKU:ROB0148-E(ROB0148)).
 
