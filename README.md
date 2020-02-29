@@ -2,6 +2,10 @@
 
 Repositorio con ejemplos para la BBC Microbit (https://microbit.org/es/) y para Maqueen (https://wiki.dfrobot.com/micro:Maqueen_for_micro:bit_SKU:ROB0148-E(ROB0148)).
 
+Se puede programar la microbit con editor de bloques, Javascript o Python. Para usar el editor no tenemos que instalar nada en nuestro ordenador (ni siquiera comprar una microbit dado que el editor incluye un simulador). Simplemente abriremos un navegador y acceder a la URL https://makecode.microbit.org/.
+
+En este vídeo de Youtube, se explica cómo empezar a programar con microbit (https://www.youtube.com/watch?v=MY4jDrN9_cc).
+
 En cada carpeta hay dos ficheros:
 
 - `.js`: con el código en Javascript listo para usar en el editor de código (https://makecode.microbit.org/).
