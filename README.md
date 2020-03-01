@@ -22,6 +22,8 @@ Características:
 - Comunicación inalámbrica, vía Radio y Bluetooth
 - USB y Conector para batería externa
 
+![microbit](https://microbit.org/images/microbit-hardware-access.jpg)
+
 Para comenzar se puede visualizar este vídeo de Youtube (https://www.youtube.com/watch?v=MY4jDrN9_cc).
 
 ## Maqueen
@@ -45,6 +47,8 @@ Características:
 - Control de motores variable por PWM
 - Funda protectora para lo smotores con tonrillos M3
 - Programación: Entorno gráfico Makecode
+
+![maqueen](https://2.bp.blogspot.com/-TZs5lVNdVzs/XKymEIlzR-I/AAAAAAAACr8/rzOde6E3lpcgJSWZ_RzV1Q8wXKCs4ygMQCEwYBhgL/s1600/robot%2BMaqueen3.png)
 
 Se puede ver un vídeo introductorio a Maqueen en https://youtu.be/vdb6pQ6VJrQ.
 
