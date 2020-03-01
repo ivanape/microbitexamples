@@ -8,7 +8,7 @@ BBC micro: bit es una pequeña tarjeta programable de tan solo 4x5 cm diseñada 
 
 Gracias a la gran cantidad de sensores que incorpora, sólo con la tarjeta se pueden llevar a cabo centenares de proyectos. BBC micro: bit también es una plataforma IoT (Internet of Things), lo que la hace muy interesante para usuarios avanzados. Y es Open Source, por supuesto. Tanto el hardware como el software de “micro:bit” es de código abierto.
 
-Tiene un entorno de programación gráfico propio: MakeCode de Microsoft, un sencillo editor gráfico online muy potente y gratuito que posibilita introducirnos en el mundo de la programación de forma intuitiva a través del lenguaje de programación visual o de bloques. Con él aprendemos a pensar como un programador sin caer en los molestos errores de sintaxis. Se puede programar con editor de bloques, Javascript o Python. No es necesario realizar ninguna instalación en nuestro equipo (ni siquiera comprar una microbit dado que el editor incluye un simulador). Simplemente es necesario abrir un navegador y acceder a la URL https://makecode.microbit.org/.
+Tiene un entorno de programación gráfico propio: MakeCode de Microsoft, un sencillo editor gráfico online muy potente y gratuito que posibilita introducirnos en el mundo de la programación de forma intuitiva a través del lenguaje de programación visual o de bloques. Con él aprendemos a pensar como un programador sin caer en los molestos errores de sintaxis. No es necesario realizar ninguna instalación en nuestro equipo (ni siquiera comprar una microbit dado que el editor incluye un simulador). Simplemente es necesario abrir un navegador y acceder a la URL https://makecode.microbit.org/.
 
 Características:
 
@@ -22,7 +22,7 @@ Características:
 - Comunicación inalámbrica, vía Radio y Bluetooth
 - USB y Conector para batería externa
 
-Para comenzar se puede visualizar este vídeo de Youtube (https://www.youtube.com/watch?v=MY4jDrN9_cc), dado que es un gran recurso para una primera toma de contacto del flujo y entorno de trabajo.
+Para comenzar se puede visualizar este vídeo de Youtube (https://www.youtube.com/watch?v=MY4jDrN9_cc).
 
 ## Maqueen
 
